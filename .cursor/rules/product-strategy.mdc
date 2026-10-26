@@ -1,0 +1,18 @@
+---
+description: Always keep BetOnline 2026–2028 product strategy in mind
+alwaysApply: true
+---
+
+# Product strategy + research (always on)
+
+Before advising on features, prioritisation, BRDs, or live-site UX direction, read:
+
+1. `.cursor/knowledge/product-strategy/BRIEF.md` — strategy north star
+2. `.cursor/knowledge/product-strategy/COMPETITOR_RESEARCH.md` — Chris-liked competitor patterns (Rainbet, Winna, …)
+3. When arguing friction / activation: `research/Journey_Audits_2026.pdf`
+
+Full decks: `Product_Strategy_2026-2028_Final.pdf`, `Product_Strategy_50_Features_and_Initiatives.pdf`.
+
+**North star:** Make every wager meaningful — casino-first activation; one real-time reward system; sports as funnel; trust in-product.
+
+**Every request (not only BRDs):** use strategy + research with Lumen + Chris taste (`chris-build-stack.mdc`) so builds land close to perfect. Map to bets; cite competitor patterns when relevant; translate into Lumen/shell — do not clone peers. Do **not** implement the 50-feature backlog unless he explicitly asks to build a specific item.

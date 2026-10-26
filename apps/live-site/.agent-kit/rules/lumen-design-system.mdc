@@ -1,0 +1,14 @@
+---
+description: Always use Lumen design system only — constitution for all agents
+alwaysApply: true
+---
+
+# Always use Lumen (constitution)
+
+On **every** request, before inventing UI or picking colours/spacing/type:
+
+1. Read `.specify/memory/constitution.md` — **Principle I. Lumen Only** is non-negotiable.
+2. Resolve visuals to Lumen tokens / components (`app/lumen.css`, Storybook-approved lumen components, Figma Lumen library). No raw hex, no detached Figma styles, no one-off primitives when Lumen already has the piece.
+3. Also follow `.cursor/skills/lumen-betonline-build/SKILL.md` for live-site taste (shell, cards, inputs, claims, hovers).
+
+If Lumen lacks something: stop and raise a component brief — do not improvise a parallel system.

@@ -1,0 +1,14 @@
+---
+description: Always load and follow the lumen-betonline-build skill on every request
+alwaysApply: true
+---
+
+# Always use lumen-betonline-build
+
+On **every** user request in this repo — before planning or editing — read and follow:
+
+`.cursor/skills/lumen-betonline-build/SKILL.md`
+
+Then open `.cursor/skills/lumen-betonline-build/patterns.md` when the task touches nav, cards, inputs, tables, claims/toasts, sticky layouts, shelves, or Figma→code.
+
+Do not skip this for “small” tweaks. Chris’s shell/sub-nav/card/hover/toast/input patterns live there; inventing outside them regresses the product.
